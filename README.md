@@ -1,6 +1,7 @@
 # Simple-Banking-System
 
 ![Design Blocks](https://images.unsplash.com/photo-1523839699072-5ec088b61a21?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=2250&q=80)
+Image by: Erol Ahmed
 
 ## Project Setup
 
