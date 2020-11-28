@@ -4,16 +4,16 @@ Image by: Erol Ahmed
 
 ## Project Setup
 
-We regularly interact with banks in our day-to-day lives, but rarely think about the systems that power them. Banks power global finance, and the online systems that enable these systems are incredibly complex.
+We regularly interact with banks in our day-to-day lives but rarely think about the systems that power them. Banks power global finance, and the online information technology systems that enable these systems are incredibly complex.
 
 ## What is this?
-An example model of a banking system. We have designed the banking system using Python Object Oreiented Programming (OOP) techniques. 
+This program is an example model of a banking system. We have designed the banking system using Python Object Oriented Programming (OOP) techniques. 
 
 ## How to use this?
 
 1. Open the main.py file
 
-2. The user is presented with three options: 
+2. The program presents the user with three options: 
 
 > * 1. Open a new bank account
 > * 2. Access existing bank account
@@ -21,29 +21,30 @@ An example model of a banking system. We have designed the banking system using 
 
 Note:
 - If the user chooses option 1: Open a new bank account
-> * A prompt for: name, address, account, deposit is passed to the client's class in the client.py program.
+> * A prompt for name, address, account, we pass the deposit to the client's class in the client.py program.
 > * The system creates a unique user account number with a five-digit number using random numbers between 10000 and 99999.
-> * Account is created successfully, and a five-digit account number is provided.
+> * Account creates successfully, and we provide the user with a five-digit account number.
 
 
 - If the user chooses option 2: Access existing bank account
-> * A prompt for: name, and account number is provided
-> * The system validates the authorization of the users' credential against the authentication function within the bank class in the bank.py program.
-> * if Authentication is good the user is granted access to the accounts menu where they can: withdraw, deposit, get balance via the client class (client.py), or exit the account window. 
-> * if Authentication is failed the user is presented with a security message and redirected to account login.
+> * The program provides a prompt for a name and an account number.
+> * The system validates the authorization of the users' credentials against the authentication function within the bank class in the bank.py program.
+> * if Authentication is OK, we grant the user access to the accounts menu where they can: withdraw, deposit, get the balance via the client class (client.py), or exit the account window. 
+> * if Authentication fails, the user is presented with a security message and redirected to account login.
 
 
 - If the user chooses option 3: Exit terminal
-> * The session is terminated and the user is presented with a message
+> * The program presents the user a message as the session terminates.
 
 
-## Testing
+# Testing
 
 1. TBD
 
-## Development
-If you would like to work on this application we’d love your pull requests and tickets on GitHub!
+# Development
+If you would like to work on this application, we'd love your pull requests and tickets on GitHub!
 
 1. If you open up a ticket, please make sure it describes the problem and or feature request fully.
-2. If you send us a pull request, make sure you add a test for what you added.
+2. If you send us a pull request, make sure you add a test for what you said.
+
 _____
