@@ -1,5 +1,7 @@
 # Simple-Banking-System
 
+![Design Blocks](https://unsplash.com/photos/9ZWtkOCMxbM)
+
 ## Project Setup
 
 We regularly interact with banks in our day-to-day lives, but rarely think about the systems that power them. Banks power global finance, and the online systems that enable these systes are incredibly complex.
