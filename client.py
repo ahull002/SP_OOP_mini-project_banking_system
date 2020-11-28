@@ -5,7 +5,7 @@ class Client:
     account = {}
 
     def __init__(self, name, address, account, deposit):
-        """Instantiates a new account with five parameters: random generated account number, 
+        """This function instantiates a new account with five parameters: random generated account number, 
         name, address, account, and initial deposit.
         
         Parameters
@@ -20,7 +20,6 @@ class Client:
         ----------
         Stores account details 
         """
-        
         self.account['account_number'] = randint(10000, 99999)
         self.account['name'] = name
         self.account['address'] = address
@@ -28,7 +27,7 @@ class Client:
         self.account['balance'] = deposit
 
     def withdraw(self, amount):
-        """Decreases balance number by some applied amount.
+        """This function decreases balance number by some applied amount.
         
         Parameters
         ----------
@@ -49,7 +48,7 @@ class Client:
             self.balance()
 
     def deposit(self, amount):
-        """Increases balance number by some applied amount.
+        """This function increases balance number by some applied amount.
         
         Parameters
         ----------
@@ -59,7 +58,6 @@ class Client:
         ----------
         balance += amount
         """        
-
         self.account['balance'] += amount
         print()
         print("The sum of {} has been added to your account balance.".format(amount))
