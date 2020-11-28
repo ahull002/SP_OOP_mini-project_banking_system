@@ -37,11 +37,11 @@ Note:
 > * The program presents the user a message as the session terminates.
 
 
-# Testing
+## Testing
 
 1. TBD
 
-# Development
+## Development
 If you would like to work on this application, we'd love your pull requests and tickets on GitHub!
 
 1. If you open up a ticket, please make sure it describes the problem and or feature request fully.
