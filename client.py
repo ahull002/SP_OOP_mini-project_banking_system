@@ -52,7 +52,7 @@ class Client:
         
         Parameters
         ----------
-        amount : new amount to be added to balance
+        amount : new amount to be added to balance.
         
         Returns
         ----------
