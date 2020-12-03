@@ -5,7 +5,7 @@ class Client:
     account = {}
 
     def __init__(self, name, address, account, deposit):
-        """This function instantiates a new account with five parameters: random generated account number, 
+        """This function instantiates a new account with five parameters: random-generated account number, 
         name, address, account, and initial deposit.
         
         Parameters
@@ -21,9 +21,9 @@ class Client:
         Stores account details 
         """
         self.account['account_number'] = randint(10000, 99999)
-        self.account['name'] = name
-        self.account['address'] = address
-        self.account['account type'] = account
+        self.account['name'] = name.strip()
+        self.account['address'] = address.strip()
+        self.account['account_type'] = account.strip()
         self.account['balance'] = deposit
 
     def withdraw(self, amount):
