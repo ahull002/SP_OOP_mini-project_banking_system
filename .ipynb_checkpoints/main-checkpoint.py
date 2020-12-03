@@ -20,7 +20,7 @@ while (running==True):
     3. Exit terminal
     """)
     
-    # Build menu selector
+    # Build the menu selector
     choice = int(input("1, 2 or 3: "))
 
     # Build outer try statment to encapsulate the program

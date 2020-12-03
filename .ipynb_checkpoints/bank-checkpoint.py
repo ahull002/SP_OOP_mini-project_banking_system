@@ -5,7 +5,7 @@ class Bank:
     valid_account_types= ['checking', 'savings']
 
     def validate_client(self, client):
-        """This function checks validates the account type and initial deposit entered by the user.
+        """This function validates the account type and initial deposit entered by the user.
         
         Parameters
         ----------

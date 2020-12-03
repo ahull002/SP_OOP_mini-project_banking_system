@@ -5,7 +5,7 @@ class Client:
     account = {}
 
     def __init__(self, name, address, account, deposit):
-        """This function instantiates a new account with five parameters: random generated account number, 
+        """This function instantiates a new account with five parameters: random-generated account number, 
         name, address, account, and initial deposit.
         
         Parameters
