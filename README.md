@@ -37,23 +37,10 @@ Note:
 > * The program presents the user a message as the session terminates.
 
 
-<<<<<<< HEAD
 ## Testing & Development
 
 If you would like to work on this application, we'd love your pull requests and tickets on GitHub!
 
 1. If you open up a ticket, please make sure it describes the problem and or feature request fully.
 2. If you send us a pull request, make sure you add a test for what you completed.
-=======
-## Testing
-
-1. TBD
-
-## Development
-If you would like to work on this application, we'd love your pull requests and tickets on GitHub!
-
-1. If you open up a ticket, please make sure it describes the problem and or feature request fully.
-2. If you send us a pull request, make sure you add a test for what you said.
-
->>>>>>> 7c240da122fdd2eaa783a7dc612d96ab7f29461e
 _____
