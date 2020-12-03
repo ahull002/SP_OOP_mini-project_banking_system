@@ -18,7 +18,7 @@ class Client:
         
         Returns
         ----------
-        Stores account details 
+        Stores account details. 
         """
         self.account['account_number'] = randint(10000, 99999)
         self.account['name'] = name.strip()

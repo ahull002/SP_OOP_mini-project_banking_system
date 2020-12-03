@@ -2,7 +2,7 @@
 from client import Client
 from bank import Bank
 
-# Setting Bank function to a variable
+# Setting Bank function to a variable.
 bank = Bank()
 
 # Spelling out welcome banner

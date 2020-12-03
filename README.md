@@ -39,7 +39,7 @@ Note:
 
 ## Testing & Development
 
-If you would like to work on this application, we'd love your pull requests and tickets on GitHub!
+If you would like to work on this application, we'd love your pull requests and tickets on GitHub!!
 
 1. If you open up a ticket, please make sure it describes the problem and or feature request fully.
 2. If you send us a pull request, make sure you add a test for what you completed.
